@@ -26,35 +26,35 @@ export function Home(){
  <ul>
     <li>
     <Row className="mt-1 p-1 align-items-center">
-    <Col xs={2} lg={1}><img src={finance} width={30}/></Col>
+    <Col xs={2} lg={1}><img src={finance} width={30} alt="finance symbol"/></Col>
     <Col> <p className="font-weight-bold m-0">Billån med säkerhet.</p>
     <p className="m-0">Bättre lån med låg ränta (3.49%)</p></Col>
     </Row>
     </li>
     <li>
     <Row className="mt-1 p-1 align-items-center">
-    <Col xs={2}lg={1}><img src={bankid}  width={30}/></Col>
+    <Col xs={2}lg={1}><img src={bankid}  width={30} alt="bankid symbol"/></Col>
     <Col> <p className="font-weight-bold m-0">Köp och sälj med BankId.</p>
     <p className="m-0">En säkerhet för båda köpare och säljare</p></Col>
     </Row>
     </li>
     <li>
     <Row className="mt-1 p-1 align-items-center">
-    <Col xs={2} lg={1}><img src={ad}  width={30}/></Col>
+    <Col xs={2} lg={1}><img src={ad}  width={30} alt="ad symbol"/></Col>
     <Col> <p className="font-weight-bold m-0">Kostnadsfri annonsering.</p>
     <p className="m-0">Skapa en annons på Carswipe och betala enast vid slitförd affär</p></Col>
     </Row>
     </li>
     <li>
     <Row className="mt-1 p-1 align-items-center">
-    <Col xs={2} lg={1}><img src={money}  width={30}/></Col>
+    <Col xs={2} lg={1}><img src={money}  width={30} alt="money symbol"/></Col>
     <Col> <p className="font-weight-bold m-0">Säker betalning & ägarbyte.</p>
     <p className="m-0"> Vi ser till att du får betala och hjälper till med ägarbyte</p></Col>
     </Row>
     </li>
     <li>
     <Row className="mt-1 p-1 align-items-center">
-    <Col xs={2} lg={1}><img src={insurance}  width={30}/></Col>
+    <Col xs={2} lg={1}><img src={insurance}  width={30} alt="insurance symbol"/></Col>
     <Col><p className="font-weight-bold m-0"> Försäkring och garanti.</p> 
     <p className="m-0">Var trygg om något händer</p></Col>
     </Row>

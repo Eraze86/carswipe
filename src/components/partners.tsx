@@ -18,18 +18,18 @@ export function Partners(){
     Noga utvalda Partners
     <h3 className="text-primary font-weight-bold ">En trygg bilaffär</h3>
     <Row className="justify-content-between p-3">
-        <img className="partner Small shadow rounded" src={opus}/>
-        <img className="partner Small shadow rounded"src={autoconcept}/>
-        <img className="partner Small shadow rounded"src={ryds}/>
-        <img className="partner Small shadow rounded"src={hansa}/>
-        <img className="partner Small shadow rounded"src={zakra}/>
-        <img className="partner Small shadow rounded"src={lanspara}/>
-        <img className="partner Small shadow rounded"src={bringwash}/>
-        <img className="partner Small shadow rounded"src={openpayment}/>
-        <img className="partner Small shadow rounded"src={ping}/>
-        <img className="partner Small shadow rounded"src={carinfo }/>
-        <img className="partner Small shadow rounded"src={northprojects}/>
-        <img className="partner Small shadow rounded"src={smart}/>
+        <img className="partner Small shadow rounded"src={opus} alt="partner opus"/>
+        <img className="partner Small shadow rounded"src={autoconcept} alt="partner autoconcept"/>
+        <img className="partner Small shadow rounded"src={ryds} alt="partner ryds"/>
+        <img className="partner Small shadow rounded"src={hansa} alt="partner trygghansa"/>
+        <img className="partner Small shadow rounded"src={zakra} alt="partner zakra"/>
+        <img className="partner Small shadow rounded"src={lanspara} alt="partner lån och spara"/>
+        <img className="partner Small shadow rounded"src={bringwash} alt="partner bringwash"/>
+        <img className="partner Small shadow rounded"src={openpayment} alt="partner openpayment"/>
+        <img className="partner Small shadow rounded"src={ping} alt="partner ping"/>
+        <img className="partner Small shadow rounded"src={carinfo } alt="partner carinfo"/>
+        <img className="partner Small shadow rounded"src={northprojects} alt="partner northprojects"/>
+        <img className="partner Small shadow rounded"src={smart} alt="partner smart"/>
 
 
     </Row>
