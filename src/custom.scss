@@ -1,0 +1,56 @@
+
+$theme-colors: (
+  "primary": #153462,
+  "success": #1ee2b6,
+  "info":#e6eff8
+
+);
+
+body{
+  background-color: #f8f9fb;
+}
+
+.btn{
+  margin: 0rem 0.5rem;
+}
+
+
+header{
+  background-image: url("../src/img/hero_fp_carswipe.jpg");
+  background-size: cover;
+  background-position: center center;
+  width: 100vw;
+  height: 30rem;
+  background-repeat: no-repeat
+}
+
+// info container
+.row > .card {
+  width: 20rem;
+  border-radius: 1rem;
+}
+
+.card-img  {
+  height: 3rem;
+}
+
+//header text container
+.header-text{
+  background-color: transparent;
+  padding-top: 10rem;
+  }
+
+.partner{
+  height: 4rem;
+  margin: 1rem;
+}
+
+ul{
+  list-style: none;
+}
+
+.col > p {
+margin: 0rem;
+}
+
+@import '~bootstrap/scss/bootstrap.scss'
