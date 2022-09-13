@@ -16,7 +16,7 @@ export function ContactInfo() {
         <Row className=" border-top border-info border-bottom p-2">
            <Col xs={6} md={3}>
            <p className="text-white font-weight-bold ">Carsswipe</p>
-           <Nav.Link className="text-success pl-0">skapa profil</Nav.Link>
+           <Nav.Link className="text-success pl-0">Skapa profil</Nav.Link>
            <Nav.Link className="text-success pl-0"> Köp bil</Nav.Link>
            <Nav.Link className="text-success pl-0 pb-5">Sälj bil</Nav.Link>
            </Col> 
@@ -36,7 +36,7 @@ export function ContactInfo() {
            <p className="text-white font-weight-bold mb-2 m-0">Information</p>
           <p className="text-white m-0">CarsSwipe AB</p>
           <p className="text-white m-0">559167-0210</p>
-          <p className="text-white m-0">företaget innehar F-skattsedel.</p>
+          <p className="text-white m-0">Företaget innehar F-skattsedel.</p>
            <Nav.Link className="text-success pl-0 pb-5">info@carswipe.se</Nav.Link>
            </Col> 
         </Row>
